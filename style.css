@@ -1,0 +1,34 @@
+body{
+  background-color:black;
+  text-align:center;
+  text-align: cover; 
+ padding: 5%;
+  margin:5%;
+  color:white;
+  box-sizing: border-box;
+
+
+}
+h1{
+    font-size: 70px;
+}
+
+.error-container {
+    font-size: 50px;
+    font-weight: 100;
+/*   background:blue; */
+/*   pading:1 */
+  color:rgb(242, 255, 5);
+  text-align:center;
+  
+}
+
+.buttoon{
+
+  border:1%;
+  
+}
+a{
+font-size: 300%;
+  text-decoration:none;
+}
